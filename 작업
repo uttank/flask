@@ -1,0 +1,15 @@
+가상환경 설정
+    -> python -m venv env
+flask 설치
+    -> pip install flask
+동작 확인
+    -> flask --app app.py run
+설치 패키지 모음
+    -> pip freeze > requirements.txt
+.gitignore 설정
+vsc 에서 git 으로 commit
+vsc 에서 github  으로 push
+github 로그인 uttank 기본
+    repository 만듬 flask
+    git remote add origin https://github.com/uttank/flask.git 
+vsc 에서 push
