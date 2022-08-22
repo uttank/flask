@@ -13,3 +13,11 @@ github 로그인 uttank 기본
     repository 만듬 flask
     git remote add origin https://github.com/uttank/flask.git 
 vsc 에서 push
+
+db 를 사용
+    sqlite3
+모델 설정
+관리자 메뉴
+    pip install flask-admin
+json 설정
+javascript 에서 json 데이터 가져오기
