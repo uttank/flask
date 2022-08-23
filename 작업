@@ -6,10 +6,12 @@ flask 설치
     -> flask --app app.py run
 설치 패키지 모음
     -> pip freeze > requirements.txt
+    다른 곳에 재 설치
+    -> pip install -r requirements.txt
 .gitignore 설정
 vsc 에서 git 으로 commit
 vsc 에서 github  으로 push
-github 로그인 uttank 기본
+github 로그인 -- uttank 기본
     repository 만듬 flask
     git remote add origin https://github.com/uttank/flask.git 
 vsc 에서 push
@@ -19,5 +21,8 @@ db 를 사용
 모델 설정
 관리자 메뉴
     pip install flask-admin
+
+Advanced Rest Client 설치 - 크롬에 앱 메뉴 표시는 북마크 오른쪽 마우스 클릭 앱 바로가기 선택
+
 json 설정
 javascript 에서 json 데이터 가져오기
